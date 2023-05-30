@@ -1,0 +1,14 @@
+.oscuro {
+    background-color: #D2B4DE; 
+    color: #ffffff;
+  }
+  .label-white {
+    background-color: #ffffff; /* Fondo blanco */
+    padding: 5px 10px; /* Ajusta el espaciado interno según tus necesidades */
+
+  }
+  .input{
+    background-color: #8E44AD;
+    padding: 200px 200px;
+
+  }
